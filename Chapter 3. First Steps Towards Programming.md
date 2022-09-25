@@ -159,6 +159,18 @@ also refer: [String Methods](https://docs.python.org/3/library/stdtypes.html#str
 ['a', 'b', 'c']
 >>> x[0][1]
 'b'
+
+#3d matrix
+>>> r1 = [1,4,7]
+>>> r2 = [9,43,87]
+>>> r3 = [99,55,97]
+>>> m1 = [r1,r2,r3]
+>>> m2 = [r1+r2+r3]
+m1
+m2
+m2[0]
+m2[0:2]
+m2[1:2]
 ```
 
 #### Lets start with - Fibonacci Series
