@@ -23,6 +23,4 @@ Note: Defining a function doesnt create a stack, its the calling of the function
   ...
   More
   ```
-* There can be zero or more elif parts, and the else part is optional.
-* An if … elif … elif … sequence is a substitute for the switch or case statements
-* If you’re comparing the same value to several constants(switch case), or checking for specific types or attributes, you may also find the match statement useful
+* [pytutor](https://pythontutor.com/render.html#mode=display)
